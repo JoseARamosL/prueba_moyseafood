@@ -1,0 +1,24 @@
+[
+   {
+      "name":"Jhon",
+      "username":"jhon1",
+      "email":"jhon@gmail.com",
+      "phone":"633657889",
+      "img": "usu.png"
+   },
+   {
+      "name":"Tom",
+      "username":"tom1",
+      "email":"tom@gmail.com",
+      "phone":"645738909",
+      "img": "usu.png"
+   },
+   {
+      "name":"Lia",
+      "username":"lia1",
+      "email":"lia@gmail.com",
+      "phone":"534466006",
+      "img": "usu.png"
+   }
+   
+] 
